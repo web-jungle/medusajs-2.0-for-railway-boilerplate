@@ -10,7 +10,7 @@ export default function RootLayout(props: { children: React.ReactNode }) {
   return (
     <html lang="en" data-mode="light">
       <body>
-        <main className="relative">fffffffffffffffffff{props.children}</main>
+        <main className="relative">ffffffffffffffffffffff{props.children}</main>
       </body>
     </html>
   )
